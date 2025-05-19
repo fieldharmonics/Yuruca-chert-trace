@@ -57,4 +57,4 @@ GitHub: https://github.com/fieldharmonics/yuruca/chert-trace
 
 ## Contact
 
-connect@yuruca.co
+connect@yuruca.com
