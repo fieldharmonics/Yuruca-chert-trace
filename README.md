@@ -48,7 +48,7 @@ All code and data from CHERT Paper I will be available on:
 ## Citation
 
 Panza, R. (2025). *CHERT Paper I: Trace – The Resonant Refraction Index*.  
-GitHub: https://github.com/fieldharmonics/yuruca/chert-trace
+GitHub: https://github.com/fieldharmonics/yuruca-chert-trace
 
 ## License
 
