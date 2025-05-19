@@ -8,7 +8,7 @@ The results suggest measurable resonance convergence, statistically distinct fro
 
 ## Repository
 
-https://github.com/fieldharmonics/yuruca/chert-trace
+https://github.com/fieldharmonics/yuruca-chert-trace
 
 ## Features
 
@@ -41,7 +41,7 @@ Freq: 4.24e+14 Hz | Octave-mapped: 3087.44 Hz | Trace: 4.77 cents
 
 All code and data from CHERT Paper I will be available on:
 
-- GitHub: https://github.com/fieldharmonics/yuruca/chert-trace
+- GitHub: https://github.com/fieldharmonics/yuruca-chert-trace
 - Zenodo (DOI pending)
 - Yuruca Platform: https://platform.yuruca.com/chert
 
