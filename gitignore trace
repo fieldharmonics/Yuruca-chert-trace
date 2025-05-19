@@ -1,0 +1,42 @@
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# Data files (optional: comment out to commit .csvs)
+*.csv
+*.tsv
+*.xlsx
+
+# Logs and output
+*.log
+*.out
+
+# OS/System files
+.DS_Store
+Thumbs.db
+
+# Python testing cache
+.pytest_cache/
+coverage/
+
+# Build artifacts
+dist/
+build/
+*.egg-info/
+
+# VSCode settings (optional)
+.vscode/
+
+# Secrets or config (if used)
+.env
+*.secret
